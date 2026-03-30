@@ -1,0 +1,5139 @@
+fileFormatVersion: 2
+guid: 25279d448e3e82c4b92c580b92b95b7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 437712181963158012
+    second: zero_z1sabresheet_0
+  - first:
+      213: -7988931213790769966
+    second: zero_z1sabresheet_1
+  - first:
+      213: 6851792637970040151
+    second: zero_z1sabresheet_2
+  - first:
+      213: -6091200716010711635
+    second: zero_z1sabresheet_3
+  - first:
+      213: -6766825907383398308
+    second: zero_z1sabresheet_4
+  - first:
+      213: -4796062331251172826
+    second: zero_z1sabresheet_5
+  - first:
+      213: 8774699728438677817
+    second: zero_z1sabresheet_6
+  - first:
+      213: 4231729844779253540
+    second: zero_z1sabresheet_7
+  - first:
+      213: -3345681772023058785
+    second: zero_z1sabresheet_8
+  - first:
+      213: -4378511192734518960
+    second: zero_z1sabresheet_9
+  - first:
+      213: 1981976978768821527
+    second: zero_z1sabresheet_10
+  - first:
+      213: -2972925292725850732
+    second: zero_z1sabresheet_11
+  - first:
+      213: 8929505899679583960
+    second: zero_z1sabresheet_12
+  - first:
+      213: 2307052329221246733
+    second: zero_z1sabresheet_13
+  - first:
+      213: -5102637271570300085
+    second: zero_z1sabresheet_14
+  - first:
+      213: -7265559428212257764
+    second: zero_z1sabresheet_15
+  - first:
+      213: 6274435096292840082
+    second: zero_z1sabresheet_16
+  - first:
+      213: -2062226443085862379
+    second: zero_z1sabresheet_17
+  - first:
+      213: 562321643120171326
+    second: zero_z1sabresheet_18
+  - first:
+      213: 3328282686473303096
+    second: zero_z1sabresheet_19
+  - first:
+      213: 2826149238975014154
+    second: zero_z1sabresheet_20
+  - first:
+      213: 3729735370358505848
+    second: zero_z1sabresheet_21
+  - first:
+      213: -1550186677616324818
+    second: zero_z1sabresheet_22
+  - first:
+      213: -8347691249532273517
+    second: zero_z1sabresheet_23
+  - first:
+      213: -9139729159671634815
+    second: zero_z1sabresheet_24
+  - first:
+      213: 2299404193291643019
+    second: zero_z1sabresheet_25
+  - first:
+      213: -1912677637545260426
+    second: zero_z1sabresheet_26
+  - first:
+      213: 101329679450626356
+    second: zero_z1sabresheet_27
+  - first:
+      213: -6779034049435594771
+    second: zero_z1sabresheet_28
+  - first:
+      213: -5021536039371337218
+    second: zero_z1sabresheet_29
+  - first:
+      213: -1007908907617196992
+    second: zero_z1sabresheet_30
+  - first:
+      213: -8986104403710767490
+    second: zero_z1sabresheet_31
+  - first:
+      213: -1682116184543405316
+    second: zero_z1sabresheet_32
+  - first:
+      213: 622536141635638069
+    second: zero_z1sabresheet_33
+  - first:
+      213: 2840031288076205185
+    second: zero_z1sabresheet_34
+  - first:
+      213: -8995345019020488456
+    second: zero_z1sabresheet_35
+  - first:
+      213: -3649590368827500359
+    second: zero_z1sabresheet_36
+  - first:
+      213: 7886612666128567144
+    second: zero_z1sabresheet_37
+  - first:
+      213: -8524095782356273472
+    second: zero_z1sabresheet_38
+  - first:
+      213: -3864956477813504492
+    second: zero_z1sabresheet_39
+  - first:
+      213: -3555961776674290258
+    second: zero_z1sabresheet_40
+  - first:
+      213: 8178061314572339421
+    second: zero_z1sabresheet_41
+  - first:
+      213: 7627050173077570922
+    second: zero_z1sabresheet_42
+  - first:
+      213: -8564410414941736141
+    second: zero_z1sabresheet_43
+  - first:
+      213: 6038442186620593323
+    second: zero_z1sabresheet_44
+  - first:
+      213: 8001046682316260625
+    second: zero_z1sabresheet_45
+  - first:
+      213: 4937919302818878573
+    second: zero_z1sabresheet_46
+  - first:
+      213: 4829254348698626791
+    second: zero_z1sabresheet_47
+  - first:
+      213: -7589216077495511311
+    second: zero_z1sabresheet_48
+  - first:
+      213: 3395170434128218489
+    second: zero_z1sabresheet_49
+  - first:
+      213: -3048531477089117062
+    second: zero_z1sabresheet_50
+  - first:
+      213: -110146075934949757
+    second: zero_z1sabresheet_51
+  - first:
+      213: 4799902463092831475
+    second: zero_z1sabresheet_52
+  - first:
+      213: 8564157457405109307
+    second: zero_z1sabresheet_53
+  - first:
+      213: -6183511228764999605
+    second: zero_z1sabresheet_54
+  - first:
+      213: -3813248259729212358
+    second: zero_z1sabresheet_55
+  - first:
+      213: -7545380672951244890
+    second: zero_z1sabresheet_56
+  - first:
+      213: -4369066089547627511
+    second: zero_z1sabresheet_57
+  - first:
+      213: -2483323406368268626
+    second: zero_z1sabresheet_58
+  - first:
+      213: -4006541104953702802
+    second: zero_z1sabresheet_59
+  - first:
+      213: 8872636246541456768
+    second: zero_z1sabresheet_60
+  - first:
+      213: -3036587148505618036
+    second: zero_z1sabresheet_61
+  - first:
+      213: -2318209987344636086
+    second: zero_z1sabresheet_62
+  - first:
+      213: 3929045616279074063
+    second: zero_z1sabresheet_63
+  - first:
+      213: -804626419471360706
+    second: zero_z1sabresheet_64
+  - first:
+      213: 797049918116281014
+    second: zero_z1sabresheet_65
+  - first:
+      213: -8151514997543017565
+    second: zero_z1sabresheet_66
+  - first:
+      213: -7561216001986769279
+    second: zero_z1sabresheet_67
+  - first:
+      213: 7357512565181788360
+    second: zero_z1sabresheet_68
+  - first:
+      213: -6491996960729497285
+    second: zero_z1sabresheet_69
+  - first:
+      213: 5444754171443720908
+    second: zero_z1sabresheet_70
+  - first:
+      213: -8778214215496543387
+    second: zero_z1sabresheet_71
+  - first:
+      213: -2727205081530610539
+    second: zero_z1sabresheet_72
+  - first:
+      213: 8172683284743617232
+    second: zero_z1sabresheet_73
+  - first:
+      213: 114826250485946276
+    second: zero_z1sabresheet_74
+  - first:
+      213: 8333467405427570759
+    second: zero_z1sabresheet_75
+  - first:
+      213: 6233701429628374274
+    second: zero_z1sabresheet_76
+  - first:
+      213: 4741531620416559587
+    second: zero_z1sabresheet_77
+  - first:
+      213: 3457483682982274507
+    second: zero_z1sabresheet_78
+  - first:
+      213: 2169248936719381891
+    second: zero_z1sabresheet_79
+  - first:
+      213: 5674490037708800306
+    second: zero_z1sabresheet_80
+  - first:
+      213: -7535481416806158376
+    second: zero_z1sabresheet_81
+  - first:
+      213: -4757374660136948155
+    second: zero_z1sabresheet_82
+  - first:
+      213: -1406132774934481165
+    second: zero_z1sabresheet_83
+  - first:
+      213: -3326105679229766042
+    second: zero_z1sabresheet_84
+  - first:
+      213: 1783020116123337355
+    second: zero_z1sabresheet_85
+  - first:
+      213: -2741098285842086425
+    second: zero_z1sabresheet_86
+  - first:
+      213: -2732342943953396577
+    second: zero_z1sabresheet_87
+  - first:
+      213: 6887301302595707427
+    second: zero_z1sabresheet_88
+  - first:
+      213: -2954619837984836255
+    second: zero_z1sabresheet_89
+  - first:
+      213: 2044278924263901172
+    second: zero_z1sabresheet_90
+  - first:
+      213: 5956834445642286748
+    second: zero_z1sabresheet_91
+  - first:
+      213: -3367034728878142869
+    second: zero_z1sabresheet_92
+  - first:
+      213: -1360205778706117777
+    second: zero_z1sabresheet_93
+  - first:
+      213: 8647915909221063143
+    second: zero_z1sabresheet_94
+  - first:
+      213: 6855385768043841084
+    second: zero_z1sabresheet_95
+  - first:
+      213: 4727080429205673108
+    second: zero_z1sabresheet_96
+  - first:
+      213: 6747508135953929166
+    second: zero_z1sabresheet_97
+  - first:
+      213: -6808312538959798582
+    second: zero_z1sabresheet_98
+  - first:
+      213: -2872255216919711311
+    second: zero_z1sabresheet_99
+  - first:
+      213: 458157170996631106
+    second: zero_z1sabresheet_100
+  - first:
+      213: -7194065100439519791
+    second: zero_z1sabresheet_101
+  - first:
+      213: 1778059069995333849
+    second: zero_z1sabresheet_102
+  - first:
+      213: -7270747718912010665
+    second: zero_z1sabresheet_103
+  - first:
+      213: 2913903217221440316
+    second: zero_z1sabresheet_104
+  - first:
+      213: -3003858415534024148
+    second: zero_z1sabresheet_105
+  - first:
+      213: 4664430082811112589
+    second: zero_z1sabresheet_106
+  - first:
+      213: 1149939069390063569
+    second: zero_z1sabresheet_107
+  - first:
+      213: -8255542953881965177
+    second: zero_z1sabresheet_108
+  - first:
+      213: 3654359574935359492
+    second: zero_z1sabresheet_109
+  - first:
+      213: 8823572895185831908
+    second: zero_z1sabresheet_110
+  - first:
+      213: 6655413427464723736
+    second: zero_z1sabresheet_111
+  - first:
+      213: 1854584061165958401
+    second: zero_z1sabresheet_112
+  - first:
+      213: -3287804105763443564
+    second: zero_z1sabresheet_113
+  - first:
+      213: 593409126497701158
+    second: zero_z1sabresheet_114
+  - first:
+      213: -7690306813725549271
+    second: zero_z1sabresheet_115
+  - first:
+      213: -1147672758866933256
+    second: zero_z1sabresheet_116
+  - first:
+      213: 5244534183151294999
+    second: zero_z1sabresheet_117
+  - first:
+      213: 6072293022047559488
+    second: zero_z1sabresheet_118
+  - first:
+      213: -2193340715180666691
+    second: zero_z1sabresheet_119
+  - first:
+      213: -2619307056348283658
+    second: zero_z1sabresheet_120
+  - first:
+      213: 4058312549570868123
+    second: zero_z1sabresheet_121
+  - first:
+      213: -4207760098224074248
+    second: zero_z1sabresheet_122
+  - first:
+      213: 6087227829401505810
+    second: zero_z1sabresheet_123
+  - first:
+      213: 7710530213656666842
+    second: zero_z1sabresheet_124
+  - first:
+      213: -1593487588581843402
+    second: zero_z1sabresheet_125
+  - first:
+      213: 3121592361610700843
+    second: zero_z1sabresheet_126
+  - first:
+      213: -5076118189939541107
+    second: zero_z1sabresheet_127
+  - first:
+      213: -7174213181248924646
+    second: zero_z1sabresheet_128
+  - first:
+      213: 4664855863448904971
+    second: zero_z1sabresheet_129
+  - first:
+      213: -6838099274812583275
+    second: zero_z1sabresheet_130
+  - first:
+      213: -6832126225179798977
+    second: zero_z1sabresheet_131
+  - first:
+      213: 1352896738433126476
+    second: zero_z1sabresheet_132
+  - first:
+      213: -6785055563689594271
+    second: zero_z1sabresheet_133
+  - first:
+      213: 6100791805077157883
+    second: zero_z1sabresheet_134
+  - first:
+      213: 570220919898689909
+    second: zero_z1sabresheet_135
+  - first:
+      213: 875109357439674817
+    second: zero_z1sabresheet_136
+  - first:
+      213: -6163379489586227292
+    second: zero_z1sabresheet_137
+  - first:
+      213: 5845922752900496530
+    second: zero_z1sabresheet_138
+  - first:
+      213: -7182645112952171817
+    second: zero_z1sabresheet_139
+  - first:
+      213: -4013258429218127446
+    second: zero_z1sabresheet_140
+  - first:
+      213: -2243029234140060049
+    second: zero_z1sabresheet_141
+  - first:
+      213: -849987886457066342
+    second: zero_z1sabresheet_142
+  - first:
+      213: -5847740256974296221
+    second: zero_z1sabresheet_143
+  - first:
+      213: -2403040164203254313
+    second: zero_z1sabresheet_144
+  - first:
+      213: 7967855438449322413
+    second: zero_z1sabresheet_145
+  - first:
+      213: 3314856828774077932
+    second: zero_z1sabresheet_146
+  - first:
+      213: -3227552322770795224
+    second: zero_z1sabresheet_147
+  - first:
+      213: -6289232259474285264
+    second: zero_z1sabresheet_148
+  - first:
+      213: 4513259163599590517
+    second: zero_z1sabresheet_149
+  - first:
+      213: 2459991927188006358
+    second: zero_z1sabresheet_150
+  - first:
+      213: -3919539202440739888
+    second: zero_z1sabresheet_151
+  - first:
+      213: 7129082695062450190
+    second: zero_z1sabresheet_152
+  - first:
+      213: -3461525125586961544
+    second: zero_z1sabresheet_153
+  - first:
+      213: 8309257777482012115
+    second: zero_z1sabresheet_154
+  - first:
+      213: -8996053478331755551
+    second: zero_z1sabresheet_155
+  - first:
+      213: 4085056326326449039
+    second: zero_z1sabresheet_156
+  - first:
+      213: 4601886785123543765
+    second: zero_z1sabresheet_157
+  - first:
+      213: 5446315959575909811
+    second: zero_z1sabresheet_158
+  - first:
+      213: 7703158915502003455
+    second: zero_z1sabresheet_159
+  - first:
+      213: -5844722773640333495
+    second: zero_z1sabresheet_160
+  - first:
+      213: -3069273861665643215
+    second: zero_z1sabresheet_161
+  - first:
+      213: 2658796138733262192
+    second: zero_z1sabresheet_162
+  - first:
+      213: -6097257193859107760
+    second: zero_z1sabresheet_163
+  - first:
+      213: 6322059442161228100
+    second: zero_z1sabresheet_164
+  - first:
+      213: -7224154488422076889
+    second: zero_z1sabresheet_165
+  - first:
+      213: 1234450394861019962
+    second: zero_z1sabresheet_166
+  - first:
+      213: 5702518452473525523
+    second: zero_z1sabresheet_167
+  - first:
+      213: -5584495971667002511
+    second: zero_z1sabresheet_168
+  - first:
+      213: 7775756460848371121
+    second: zero_z1sabresheet_169
+  - first:
+      213: 7380337001423720273
+    second: zero_z1sabresheet_170
+  - first:
+      213: -908543315462115447
+    second: zero_z1sabresheet_171
+  - first:
+      213: -8194883936295506887
+    second: zero_z1sabresheet_172
+  - first:
+      213: -2938164050000857133
+    second: zero_z1sabresheet_173
+  - first:
+      213: -1392028889995461063
+    second: zero_z1sabresheet_174
+  - first:
+      213: -8832173566998784837
+    second: zero_z1sabresheet_175
+  - first:
+      213: 5790115878846908373
+    second: zero_z1sabresheet_176
+  - first:
+      213: 4349961468040599138
+    second: zero_z1sabresheet_177
+  - first:
+      213: -3059295866908749980
+    second: zero_z1sabresheet_178
+  - first:
+      213: -6518486161321808184
+    second: zero_z1sabresheet_179
+  - first:
+      213: -3523336742525553481
+    second: zero_z1sabresheet_180
+  - first:
+      213: -7880762544727505920
+    second: zero_z1sabresheet_181
+  - first:
+      213: 2869714829590196426
+    second: zero_z1sabresheet_182
+  - first:
+      213: -3591365129872409815
+    second: zero_z1sabresheet_183
+  - first:
+      213: 2279315875120042969
+    second: zero_z1sabresheet_184
+  - first:
+      213: -1178430267902020700
+    second: zero_z1sabresheet_185
+  - first:
+      213: 3578077778232076954
+    second: zero_z1sabresheet_186
+  - first:
+      213: -3050778922614758283
+    second: zero_z1sabresheet_187
+  - first:
+      213: 8031299302295170042
+    second: zero_z1sabresheet_188
+  - first:
+      213: 8369285540757504316
+    second: zero_z1sabresheet_189
+  - first:
+      213: 7409355835270287237
+    second: zero_z1sabresheet_190
+  - first:
+      213: -31609446123658086
+    second: zero_z1sabresheet_191
+  - first:
+      213: 2676763390730977003
+    second: zero_z1sabresheet_192
+  - first:
+      213: -710446204411448721
+    second: zero_z1sabresheet_193
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_z1sabresheet_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1063
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf176cf09e0131600800000000000000
+      internalID: 437712181963158012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1063
+        width: 72
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc88f2636d912190800000000000000
+      internalID: -7988931213790769966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_2
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1063
+        width: 72
+        height: 42
+      alignment: 9
+      pivot: {x: 0.3, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75547d41a15761f50800000000000000
+      internalID: 6851792637970040151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_3
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1063
+        width: 54
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5939aa835b77ba0800000000000000
+      internalID: -6091200716010711635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_4
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1063
+        width: 43
+        height: 42
+      alignment: 9
+      pivot: {x: 0.501, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50908d70b76712a0800000000000000
+      internalID: -6766825907383398308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_6
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1063
+        width: 44
+        height: 42
+      alignment: 9
+      pivot: {x: 0.51, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931dd44a9eef5c970800000000000000
+      internalID: 8774699728438677817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1063
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f7c778fdf1aba30800000000000000
+      internalID: 4231729844779253540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_8
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1061
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ee01f8720c191d0800000000000000
+      internalID: -3345681772023058785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1003
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051bcffb4476c33c0800000000000000
+      internalID: -4378511192734518960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_10
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1003
+        width: 75
+        height: 48
+      alignment: 9
+      pivot: {x: 0.346, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d748caf85618b10800000000000000
+      internalID: 1981976978768821527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1003
+        width: 71
+        height: 48
+      alignment: 9
+      pivot: {x: 0.38, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d2d4f823c0eb6d0800000000000000
+      internalID: -2972925292725850732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1003
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de08222e4afbeb70800000000000000
+      internalID: 8929505899679583960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_13
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1003
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f4871cedb440020800000000000000
+      internalID: 2307052329221246733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1004
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43426abf6acf29b0800000000000000
+      internalID: -5102637271570300085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_15
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1006
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0be2d13c8b2b90800000000000000
+      internalID: -7265559428212257764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1006
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29257c80a75431750800000000000000
+      internalID: 6274435096292840082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1006
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a2375e9ff7163e0800000000000000
+      internalID: -2062226443085862379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 926
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3911bb1e84cdc700800000000000000
+      internalID: 562321643120171326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 928
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834f257287f603e20800000000000000
+      internalID: 3328282686473303096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 928
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a85f52cf783720800000000000000
+      internalID: 2826149238975014154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 928
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871cd60fe8ea2c330800000000000000
+      internalID: 3729735370358505848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_22
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 928
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fc2211e61ac7ae0800000000000000
+      internalID: -1550186677616324818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_23
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 928
+        width: 71
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cfdf8590b072c80800000000000000
+      internalID: -8347691249532273517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_24
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 928
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1842e7ee0c8292180800000000000000
+      internalID: -9139729159671634815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 928
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8821385eef19ef10800000000000000
+      internalID: 2299404193291643019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_26
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 928
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a084c82ddc475e0800000000000000
+      internalID: -1912677637545260426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_27
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 927
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 439dbdc7ecef76100800000000000000
+      internalID: 101329679450626356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_28
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 928
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0d1be2780ce1a0800000000000000
+      internalID: -6779034049435594771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 876
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef11372d39bef4ab0800000000000000
+      internalID: -5021536039371337218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_30
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 876
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044668b40303302f0800000000000000
+      internalID: -1007908907617196992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_31
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 876
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e0f3eb7a1fa4380800000000000000
+      internalID: -8986104403710767490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 875
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfada5d0e3ce7a8e0800000000000000
+      internalID: -1682116184543405316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 875
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d80e8251b3a800800000000000000
+      internalID: 622536141635638069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_34
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 875
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cf6ccc861d96720800000000000000
+      internalID: 2840031288076205185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_35
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 875
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f054355d5d1a2380800000000000000
+      internalID: -8995345019020488456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 875
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8995a55ec0a5dc0800000000000000
+      internalID: -3649590368827500359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 875
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b80bd4f60e27d60800000000000000
+      internalID: 7886612666128567144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_38
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 875
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6bf3d6c0454b980800000000000000
+      internalID: -8524095782356273472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 875
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416c4939f8aec5ac0800000000000000
+      internalID: -3864956477813504492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_40
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 826
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5467aba9fa6aec0800000000000000
+      internalID: -3555961776674290258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 826
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c276bf6f4e7170800000000000000
+      internalID: 8178061314572339421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 826
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65ce5af8b9b8d960800000000000000
+      internalID: 7627050173077570922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_43
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 826
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 333fdb29a1a152980800000000000000
+      internalID: -8564410414941736141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 826
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4e04afc2bdcc350800000000000000
+      internalID: 6038442186620593323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_45
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 826
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11547c2f09d690f60800000000000000
+      internalID: 8001046682316260625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_46
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 826
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6450169173078440800000000000000
+      internalID: 4937919302818878573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_47
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 826
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea21306e35f40340800000000000000
+      internalID: 4829254348698626791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_48
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 826
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f65239df20bda690800000000000000
+      internalID: -7589216077495511311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_49
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 826
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9790f1e75811e1f20800000000000000
+      internalID: 3395170434128218489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_50
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 783
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c918df5c071b5d0800000000000000
+      internalID: -3048531477089117062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_51
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 782
+        width: 77
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e7e7e3abea87ef0800000000000000
+      internalID: -110146075934949757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_52
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 783
+        width: 77
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4bb25fbddac9240800000000000000
+      internalID: 4799902463092831475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_53
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 797
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34e42925dff9d670800000000000000
+      internalID: 8564157457405109307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_54
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 797
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40b2d09c41cf2aa0800000000000000
+      internalID: -6183511228764999605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 797
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cb67649ee941bc0800000000000000
+      internalID: -3813248259729212358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_56
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 802
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7a4ad414c694790800000000000000
+      internalID: -7545380672951244890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_57
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 721
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9040f443a85fd53c0800000000000000
+      internalID: -4369066089547627511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_58
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 716
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae9105e486798dd0800000000000000
+      internalID: -2483323406368268626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_59
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 717
+        width: 61
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66cb35b718e568c0800000000000000
+      internalID: -4006541104953702802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_60
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 717
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085db5038afe12b70800000000000000
+      internalID: 8872636246541456768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_61
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 719
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896ec3b310ebd5d0800000000000000
+      internalID: -3036587148505618036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_62
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 720
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a476f858c4014dfd0800000000000000
+      internalID: -2318209987344636086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_63
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 717
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05be98cb26c68630800000000000000
+      internalID: 3929045616279074063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_64
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 716
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dd38ad88465d4f0800000000000000
+      internalID: -804626419471360706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_65
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 649
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba33957da0bf0b00800000000000000
+      internalID: 797049918116281014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_66
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 648
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3ed2e5c4000ee80800000000000000
+      internalID: -8151514997543017565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 651
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e44937b1a211790800000000000000
+      internalID: -7561216001986769279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_68
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 653
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0322e32b22b1660800000000000000
+      internalID: 7357512565181788360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_69
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 648
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b318dc8092bc7e5a0800000000000000
+      internalID: -6491996960729497285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_70
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 648
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2ba364217af8b40800000000000000
+      internalID: 5444754171443720908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 652
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5635b031ea48d2680800000000000000
+      internalID: -8778214215496543387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_72
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 655
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4abd7d65072ad0800000000000000
+      internalID: -2727205081530610539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_73
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 650
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da7ae095243b6170800000000000000
+      internalID: 8172683284743617232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_74
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 602
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7da1fcdd1f79100800000000000000
+      internalID: 114826250485946276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 599
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7487ecfd37c66a370800000000000000
+      internalID: 8333467405427570759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_76
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 599
+        width: 68
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d08d43c6e828650800000000000000
+      internalID: 6233701429628374274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_77
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 599
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9163613ed4dc140800000000000000
+      internalID: 4741531620416559587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 599
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc52ed457137bff20800000000000000
+      internalID: 3457483682982274507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_79
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 599
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857d8e2a68ba1e10800000000000000
+      internalID: 2169248936719381891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_80
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 597
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2314023ef96dfbe40800000000000000
+      internalID: 5674490037708800306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_81
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 594
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df26bb73979c6790800000000000000
+      internalID: -7535481416806158376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 540
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ea717c3f86afdb0800000000000000
+      internalID: -4757374660136948155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_83
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 539
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6fef2f0b96c7ce0800000000000000
+      internalID: -1406132774934481165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 538
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666b918d18c47d1d0800000000000000
+      internalID: -3326105679229766042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_85
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 538
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8248e8495f8eb810800000000000000
+      internalID: 1783020116123337355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_86
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 538
+        width: 64
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e543f9c1a9a5f9d0800000000000000
+      internalID: -2741098285842086425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_87
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 539
+        width: 63
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cdc1da194c41ad0800000000000000
+      internalID: -2732342943953396577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_88
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 539
+        width: 60
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3226d425b0c949f50800000000000000
+      internalID: 6887301302595707427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_89
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 538
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165779e59e41ff6d0800000000000000
+      internalID: -2954619837984836255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_90
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 539
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7419eb9dcbe5c10800000000000000
+      internalID: 2044278924263901172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_91
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 536
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c15e1e5deaa250800000000000000
+      internalID: 5956834445642286748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_92
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 467
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a80ded0c3e541d0800000000000000
+      internalID: -3367034728878142869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_93
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 467
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bc9ca0d049f1de0800000000000000
+      internalID: -1360205778706117777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_94
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 467
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9129863b1930870800000000000000
+      internalID: 8647915909221063143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_95
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 467
+        width: 66
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36858ed809332f50800000000000000
+      internalID: 6855385768043841084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_96
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 467
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494518fea96f99140800000000000000
+      internalID: 4727080429205673108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_97
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 467
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3979a56e6f3ad50800000000000000
+      internalID: 6747508135953929166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_98
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 467
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace967b51d30481a0800000000000000
+      internalID: -6808312538959798582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_99
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 388
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1fc3b1913b328d0800000000000000
+      internalID: -2872255216919711311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_100
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 388
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2465d840583bb5600800000000000000
+      internalID: 458157170996631106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_101
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 388
+        width: 87
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd744d28eb892c90800000000000000
+      internalID: -7194065100439519791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_102
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 388
+        width: 88
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8bbb8bd4feca810800000000000000
+      internalID: 1778059069995333849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_103
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 388
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75694c2c87d191b90800000000000000
+      internalID: -7270747718912010665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_104
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 388
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c331a5c9983407820800000000000000
+      internalID: 2913903217221440316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_105
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 317
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ad68aafa62056d0800000000000000
+      internalID: -3003858415534024148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_106
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 328
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c2a9572726bb040800000000000000
+      internalID: 4664430082811112589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_107
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 335
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d78650bd7765ff00800000000000000
+      internalID: 1149939069390063569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_108
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 330
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78de2e55c6b6e6d80800000000000000
+      internalID: -8255542953881965177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_109
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 342
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400d199fba4e6b230800000000000000
+      internalID: 3654359574935359492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_110
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 344
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e701538cc0a37a70800000000000000
+      internalID: 8823572895185831908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_111
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 305
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d56691047cc5c50800000000000000
+      internalID: 6655413427464723736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_112
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 301
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105f5eba06eccb910800000000000000
+      internalID: 1854584061165958401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_113
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 301
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c26e8d59f5f52d0800000000000000
+      internalID: -3287804105763443564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_114
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 301
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dce5fd4763c3800800000000000000
+      internalID: 593409126497701158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_115
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 301
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d5f1aa2ba864590800000000000000
+      internalID: -7690306813725549271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_116
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 305
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f90859d4b5a210f0800000000000000
+      internalID: -1147672758866933256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_117
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 316
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a50278d0458c840800000000000000
+      internalID: 5244534183151294999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_118
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 305
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f5a37c45e154450800000000000000
+      internalID: 6072293022047559488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_119
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 305
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db051488d30bf81e0800000000000000
+      internalID: -2193340715180666691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_120
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 305
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fcbfa42c1a56abd0800000000000000
+      internalID: -2619307056348283658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_121
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 210
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b937ea013c5025830800000000000000
+      internalID: 4058312549570868123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_122
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 210
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f19a4dfb780b95c0800000000000000
+      internalID: -4207760098224074248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_123
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 229
+        width: 11
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2105956957d2a7450800000000000000
+      internalID: 6087227829401505810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_124
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 230
+        width: 12
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22cee806e410b60800000000000000
+      internalID: 7710530213656666842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 227
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ed5981b7bc2e9e0800000000000000
+      internalID: -1593487588581843402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_126
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 239
+        width: 9
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e067c6bf125b20800000000000000
+      internalID: 3121592361610700843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_127
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 240
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b31c296610e89b0800000000000000
+      internalID: -5076118189939541107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_128
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 233
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a149bbc4f13107c90800000000000000
+      internalID: -7174213181248924646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_129
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 251
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05254d31b5ecb040800000000000000
+      internalID: 4664855863448904971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_130
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 251
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59290f970f03a11a0800000000000000
+      internalID: -6838099274812583275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_131
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 241
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32178775696f21a0800000000000000
+      internalID: -6832126225179798977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_132
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 255
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4057186a6476c210800000000000000
+      internalID: 1352896738433126476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_133
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 258
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1627ef0e9e3a6d1a0800000000000000
+      internalID: -6785055563689594271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_134
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 244
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7fc36c2dd5aa450800000000000000
+      internalID: 6100791805077157883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 213
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571de0ec7e4d9e700800000000000000
+      internalID: 570220919898689909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_136
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 210
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9efc5f253052c00800000000000000
+      internalID: 875109357439674817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_137
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 222
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d84b5207477aa0800000000000000
+      internalID: -6163379489586227292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_138
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 210
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf10f45c3e02150800000000000000
+      internalID: 5845922752900496530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_139
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 225
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d25ac6335e125c90800000000000000
+      internalID: -7182645112952171817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_140
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 205
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa18c96c8ba0e48c0800000000000000
+      internalID: -4013258429218127446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_141
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 229
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e34eabc82fd0e0800000000000000
+      internalID: -2243029234140060049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_142
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 209
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c675c458c3434f0800000000000000
+      internalID: -849987886457066342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_143
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 231
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bab4c0837a8dea0800000000000000
+      internalID: -5847740256974296221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_144
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 207
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd2ba7d3bfa6aed0800000000000000
+      internalID: -2403040164203254313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_145
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 205
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9af664e42839e60800000000000000
+      internalID: 7967855438449322413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_146
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 205
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce55b5019bcb00e20800000000000000
+      internalID: 3314856828774077932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_147
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 113
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8258243434e6533d0800000000000000
+      internalID: -3227552322770795224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_148
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 113
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d9b10f49828b8a0800000000000000
+      internalID: -6289232259474285264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_149
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 113
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57451a90c4152ae30800000000000000
+      internalID: 4513259163599590517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_150
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 133
+        width: 12
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5ae5acf95a32220800000000000000
+      internalID: 2459991927188006358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_151
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d34d4bacdffa99c0800000000000000
+      internalID: -3919539202440739888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_152
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 141
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00f49d80f69fe260800000000000000
+      internalID: 7129082695062450190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_153
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 143
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87bbc4cfc3136ffc0800000000000000
+      internalID: -3461525125586961544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_154
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 136
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d597fd9ce9605370800000000000000
+      internalID: 8309257777482012115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_155
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 154
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e35e9b4609972380800000000000000
+      internalID: -8996053478331755551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_156
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 154
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837622d51901b830800000000000000
+      internalID: 4085056326326449039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_157
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 144
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da6ad336af2ddf30800000000000000
+      internalID: 4601886785123543765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_158
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 159
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b510196283359b40800000000000000
+      internalID: 5446315959575909811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_159
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 163
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff451e6783e17ea60800000000000000
+      internalID: 7703158915502003455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_160
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 148
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473882aa9f53eea0800000000000000
+      internalID: -5844722773640333495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_161
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 125
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135270d3fafb765d0800000000000000
+      internalID: -3069273861665643215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_162
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 113
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07550635001f5e420800000000000000
+      internalID: 2658796138733262192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_163
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 128
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05435d703e0326ba0800000000000000
+      internalID: -6097257193859107760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_164
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 108
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499ce221977cb750800000000000000
+      internalID: 6322059442161228100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_165
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 132
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eee0b94c5aebb90800000000000000
+      internalID: -7224154488422076889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_166
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 108
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33288ef716a12110800000000000000
+      internalID: 1234450394861019962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_167
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 135
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3157bccb15a632f40800000000000000
+      internalID: 5702518452473525523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_168
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 110
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b303f6082ef72b0800000000000000
+      internalID: -5584495971667002511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_169
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 108
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5d0dcad4909eb60800000000000000
+      internalID: 7775756460848371121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_170
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 108
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f488c66693c6660800000000000000
+      internalID: 7380337001423720273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_171
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f23d21ba43463f0800000000000000
+      internalID: -908543315462115447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_172
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 5
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c2d817a7ce54e80800000000000000
+      internalID: -8194883936295506887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_173
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 31
+        width: 11
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d730e31d5b8937d0800000000000000
+      internalID: -2938164050000857133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_174
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 32
+        width: 12
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e3dbe89158eace0800000000000000
+      internalID: -1392028889995461063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_175
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 26
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb451788fe0dd6580800000000000000
+      internalID: -8832173566998784837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_176
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 40
+        width: 9
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7c407e6bf9a5050800000000000000
+      internalID: 5790115878846908373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_177
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 42
+        width: 11
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266523978ea2e5c30800000000000000
+      internalID: 4349961468040599138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_178
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 35
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f451e2e923b85d0800000000000000
+      internalID: -3059295866908749980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_179
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 53
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2d196f5fa985a0800000000000000
+      internalID: -6518486161321808184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_180
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 53
+        width: 9
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4bead66e79a1fc0800000000000000
+      internalID: -3523336742525553481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_181
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 43
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004405a3838e1a290800000000000000
+      internalID: -7880762544727505920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_182
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 60
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0f460ee6643d720800000000000000
+      internalID: 2869714829590196426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_183
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 64
+        width: 8
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92bfa373178e82ec0800000000000000
+      internalID: -3591365129872409815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_184
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 49
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3507b46b1c1af10800000000000000
+      internalID: 2279315875120042969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_185
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3b1293aef55afe0800000000000000
+      internalID: -1178430267902020700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_186
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 5
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9aed3628c2e7a130800000000000000
+      internalID: 3578077778232076954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_187
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 24
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5746c4dcbb479a5d0800000000000000
+      internalID: -3050778922614758283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_188
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 5
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb652ee928e47f60800000000000000
+      internalID: 8031299302295170042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_189
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 27
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c310aa06bdca52470800000000000000
+      internalID: 8369285540757504316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_190
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 5
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fc0cf20e153d660800000000000000
+      internalID: 7409355835270287237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_191
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 31
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a0405063bf8ff0800000000000000
+      internalID: -31609446123658086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_192
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee3a4c2f16c52520800000000000000
+      internalID: 2676763390730977003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_z1sabresheet_193
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 36
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f702f0fcf326f0800000000000000
+      internalID: -710446204411448721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ea9cd60678f279e40b7161c2ff9a58ef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zero_z1sabresheet_0: 437712181963158012
+      zero_z1sabresheet_1: -7988931213790769966
+      zero_z1sabresheet_10: 1981976978768821527
+      zero_z1sabresheet_100: 458157170996631106
+      zero_z1sabresheet_101: -7194065100439519791
+      zero_z1sabresheet_102: 1778059069995333849
+      zero_z1sabresheet_103: -7270747718912010665
+      zero_z1sabresheet_104: 2913903217221440316
+      zero_z1sabresheet_105: -3003858415534024148
+      zero_z1sabresheet_106: 4664430082811112589
+      zero_z1sabresheet_107: 1149939069390063569
+      zero_z1sabresheet_108: -8255542953881965177
+      zero_z1sabresheet_109: 3654359574935359492
+      zero_z1sabresheet_11: -2972925292725850732
+      zero_z1sabresheet_110: 8823572895185831908
+      zero_z1sabresheet_111: 6655413427464723736
+      zero_z1sabresheet_112: 1854584061165958401
+      zero_z1sabresheet_113: -3287804105763443564
+      zero_z1sabresheet_114: 593409126497701158
+      zero_z1sabresheet_115: -7690306813725549271
+      zero_z1sabresheet_116: -1147672758866933256
+      zero_z1sabresheet_117: 5244534183151294999
+      zero_z1sabresheet_118: 6072293022047559488
+      zero_z1sabresheet_119: -2193340715180666691
+      zero_z1sabresheet_12: 8929505899679583960
+      zero_z1sabresheet_120: -2619307056348283658
+      zero_z1sabresheet_121: 4058312549570868123
+      zero_z1sabresheet_122: -4207760098224074248
+      zero_z1sabresheet_123: 6087227829401505810
+      zero_z1sabresheet_124: 7710530213656666842
+      zero_z1sabresheet_125: -1593487588581843402
+      zero_z1sabresheet_126: 3121592361610700843
+      zero_z1sabresheet_127: -5076118189939541107
+      zero_z1sabresheet_128: -7174213181248924646
+      zero_z1sabresheet_129: 4664855863448904971
+      zero_z1sabresheet_13: 2307052329221246733
+      zero_z1sabresheet_130: -6838099274812583275
+      zero_z1sabresheet_131: -6832126225179798977
+      zero_z1sabresheet_132: 1352896738433126476
+      zero_z1sabresheet_133: -6785055563689594271
+      zero_z1sabresheet_134: 6100791805077157883
+      zero_z1sabresheet_135: 570220919898689909
+      zero_z1sabresheet_136: 875109357439674817
+      zero_z1sabresheet_137: -6163379489586227292
+      zero_z1sabresheet_138: 5845922752900496530
+      zero_z1sabresheet_139: -7182645112952171817
+      zero_z1sabresheet_14: -5102637271570300085
+      zero_z1sabresheet_140: -4013258429218127446
+      zero_z1sabresheet_141: -2243029234140060049
+      zero_z1sabresheet_142: -849987886457066342
+      zero_z1sabresheet_143: -5847740256974296221
+      zero_z1sabresheet_144: -2403040164203254313
+      zero_z1sabresheet_145: 7967855438449322413
+      zero_z1sabresheet_146: 3314856828774077932
+      zero_z1sabresheet_147: -3227552322770795224
+      zero_z1sabresheet_148: -6289232259474285264
+      zero_z1sabresheet_149: 4513259163599590517
+      zero_z1sabresheet_15: -7265559428212257764
+      zero_z1sabresheet_150: 2459991927188006358
+      zero_z1sabresheet_151: -3919539202440739888
+      zero_z1sabresheet_152: 7129082695062450190
+      zero_z1sabresheet_153: -3461525125586961544
+      zero_z1sabresheet_154: 8309257777482012115
+      zero_z1sabresheet_155: -8996053478331755551
+      zero_z1sabresheet_156: 4085056326326449039
+      zero_z1sabresheet_157: 4601886785123543765
+      zero_z1sabresheet_158: 5446315959575909811
+      zero_z1sabresheet_159: 7703158915502003455
+      zero_z1sabresheet_16: 6274435096292840082
+      zero_z1sabresheet_160: -5844722773640333495
+      zero_z1sabresheet_161: -3069273861665643215
+      zero_z1sabresheet_162: 2658796138733262192
+      zero_z1sabresheet_163: -6097257193859107760
+      zero_z1sabresheet_164: 6322059442161228100
+      zero_z1sabresheet_165: -7224154488422076889
+      zero_z1sabresheet_166: 1234450394861019962
+      zero_z1sabresheet_167: 5702518452473525523
+      zero_z1sabresheet_168: -5584495971667002511
+      zero_z1sabresheet_169: 7775756460848371121
+      zero_z1sabresheet_17: -2062226443085862379
+      zero_z1sabresheet_170: 7380337001423720273
+      zero_z1sabresheet_171: -908543315462115447
+      zero_z1sabresheet_172: -8194883936295506887
+      zero_z1sabresheet_173: -2938164050000857133
+      zero_z1sabresheet_174: -1392028889995461063
+      zero_z1sabresheet_175: -8832173566998784837
+      zero_z1sabresheet_176: 5790115878846908373
+      zero_z1sabresheet_177: 4349961468040599138
+      zero_z1sabresheet_178: -3059295866908749980
+      zero_z1sabresheet_179: -6518486161321808184
+      zero_z1sabresheet_18: 562321643120171326
+      zero_z1sabresheet_180: -3523336742525553481
+      zero_z1sabresheet_181: -7880762544727505920
+      zero_z1sabresheet_182: 2869714829590196426
+      zero_z1sabresheet_183: -3591365129872409815
+      zero_z1sabresheet_184: 2279315875120042969
+      zero_z1sabresheet_185: -1178430267902020700
+      zero_z1sabresheet_186: 3578077778232076954
+      zero_z1sabresheet_187: -3050778922614758283
+      zero_z1sabresheet_188: 8031299302295170042
+      zero_z1sabresheet_189: 8369285540757504316
+      zero_z1sabresheet_19: 3328282686473303096
+      zero_z1sabresheet_190: 7409355835270287237
+      zero_z1sabresheet_191: -31609446123658086
+      zero_z1sabresheet_192: 2676763390730977003
+      zero_z1sabresheet_193: -710446204411448721
+      zero_z1sabresheet_2: 6851792637970040151
+      zero_z1sabresheet_20: 2826149238975014154
+      zero_z1sabresheet_21: 3729735370358505848
+      zero_z1sabresheet_22: -1550186677616324818
+      zero_z1sabresheet_23: -8347691249532273517
+      zero_z1sabresheet_24: -9139729159671634815
+      zero_z1sabresheet_25: 2299404193291643019
+      zero_z1sabresheet_26: -1912677637545260426
+      zero_z1sabresheet_27: 101329679450626356
+      zero_z1sabresheet_28: -6779034049435594771
+      zero_z1sabresheet_29: -5021536039371337218
+      zero_z1sabresheet_3: -6091200716010711635
+      zero_z1sabresheet_30: -1007908907617196992
+      zero_z1sabresheet_31: -8986104403710767490
+      zero_z1sabresheet_32: -1682116184543405316
+      zero_z1sabresheet_33: 622536141635638069
+      zero_z1sabresheet_34: 2840031288076205185
+      zero_z1sabresheet_35: -8995345019020488456
+      zero_z1sabresheet_36: -3649590368827500359
+      zero_z1sabresheet_37: 7886612666128567144
+      zero_z1sabresheet_38: -8524095782356273472
+      zero_z1sabresheet_39: -3864956477813504492
+      zero_z1sabresheet_4: -6766825907383398308
+      zero_z1sabresheet_40: -3555961776674290258
+      zero_z1sabresheet_41: 8178061314572339421
+      zero_z1sabresheet_42: 7627050173077570922
+      zero_z1sabresheet_43: -8564410414941736141
+      zero_z1sabresheet_44: 6038442186620593323
+      zero_z1sabresheet_45: 8001046682316260625
+      zero_z1sabresheet_46: 4937919302818878573
+      zero_z1sabresheet_47: 4829254348698626791
+      zero_z1sabresheet_48: -7589216077495511311
+      zero_z1sabresheet_49: 3395170434128218489
+      zero_z1sabresheet_5: -4796062331251172826
+      zero_z1sabresheet_50: -3048531477089117062
+      zero_z1sabresheet_51: -110146075934949757
+      zero_z1sabresheet_52: 4799902463092831475
+      zero_z1sabresheet_53: 8564157457405109307
+      zero_z1sabresheet_54: -6183511228764999605
+      zero_z1sabresheet_55: -3813248259729212358
+      zero_z1sabresheet_56: -7545380672951244890
+      zero_z1sabresheet_57: -4369066089547627511
+      zero_z1sabresheet_58: -2483323406368268626
+      zero_z1sabresheet_59: -4006541104953702802
+      zero_z1sabresheet_6: 8774699728438677817
+      zero_z1sabresheet_60: 8872636246541456768
+      zero_z1sabresheet_61: -3036587148505618036
+      zero_z1sabresheet_62: -2318209987344636086
+      zero_z1sabresheet_63: 3929045616279074063
+      zero_z1sabresheet_64: -804626419471360706
+      zero_z1sabresheet_65: 797049918116281014
+      zero_z1sabresheet_66: -8151514997543017565
+      zero_z1sabresheet_67: -7561216001986769279
+      zero_z1sabresheet_68: 7357512565181788360
+      zero_z1sabresheet_69: -6491996960729497285
+      zero_z1sabresheet_7: 4231729844779253540
+      zero_z1sabresheet_70: 5444754171443720908
+      zero_z1sabresheet_71: -8778214215496543387
+      zero_z1sabresheet_72: -2727205081530610539
+      zero_z1sabresheet_73: 8172683284743617232
+      zero_z1sabresheet_74: 114826250485946276
+      zero_z1sabresheet_75: 8333467405427570759
+      zero_z1sabresheet_76: 6233701429628374274
+      zero_z1sabresheet_77: 4741531620416559587
+      zero_z1sabresheet_78: 3457483682982274507
+      zero_z1sabresheet_79: 2169248936719381891
+      zero_z1sabresheet_8: -3345681772023058785
+      zero_z1sabresheet_80: 5674490037708800306
+      zero_z1sabresheet_81: -7535481416806158376
+      zero_z1sabresheet_82: -4757374660136948155
+      zero_z1sabresheet_83: -1406132774934481165
+      zero_z1sabresheet_84: -3326105679229766042
+      zero_z1sabresheet_85: 1783020116123337355
+      zero_z1sabresheet_86: -2741098285842086425
+      zero_z1sabresheet_87: -2732342943953396577
+      zero_z1sabresheet_88: 6887301302595707427
+      zero_z1sabresheet_89: -2954619837984836255
+      zero_z1sabresheet_9: -4378511192734518960
+      zero_z1sabresheet_90: 2044278924263901172
+      zero_z1sabresheet_91: 5956834445642286748
+      zero_z1sabresheet_92: -3367034728878142869
+      zero_z1sabresheet_93: -1360205778706117777
+      zero_z1sabresheet_94: 8647915909221063143
+      zero_z1sabresheet_95: 6855385768043841084
+      zero_z1sabresheet_96: 4727080429205673108
+      zero_z1sabresheet_97: 6747508135953929166
+      zero_z1sabresheet_98: -6808312538959798582
+      zero_z1sabresheet_99: -2872255216919711311
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
